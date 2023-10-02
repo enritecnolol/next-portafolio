@@ -4,7 +4,7 @@ export const techStack = [
     name: "Javascript"
   },
   {
-    img: "/images/TypeScript.svg",
+    img: "/images/Typescript.svg",
     name: "Typescript"
   },
   {
@@ -44,7 +44,7 @@ export const techStack = [
     name: "CSS"
   },
   {
-    img: "/images/git.png",
+    img: "/images/Git.png",
     name: "Git"
   },
   {
