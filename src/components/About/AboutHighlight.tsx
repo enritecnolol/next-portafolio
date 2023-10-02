@@ -13,7 +13,7 @@ const AboutHighlight = () => {
   return (
     <motion.div
       initial={{ opacity: 0 }}
-      animate={{ opacity: 1, delay: 1 }}
+      animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
     >
       <div className="mt-10 sm:mt-20 bg-primary-light dark:bg-ternary-dark shadow-sm">
